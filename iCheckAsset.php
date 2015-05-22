@@ -12,18 +12,31 @@ namespace hiqdev\assets\icheck;
  */
 class iCheckAsset extends \yii\web\AssetBundle
 {
+    /**
+     * @inheritdoc
+     */
     public $sourcePath = '@bower/admin-lte';
 
+    /**
+     * @inheritdoc
+     */
     public $css = [
         'skins/all.css',
     ];
 
+    /**
+     * @inheritdoc
+     */
     public $js = [
         'icheck.min.js',
     ];
 
+    /**
+     * @inheritdoc
+     */
     public $depends = [
         'yii\bootstrap\BootstrapAsset',
         'yii\bootstrap\BootstrapPluginAsset',
     ];
+
 }
