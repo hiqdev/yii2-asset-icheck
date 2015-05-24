@@ -15,7 +15,7 @@ class iCheckAsset extends \yii\web\AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@bower/admin-lte';
+    public $sourcePath = '@bower/icheck';
 
     /**
      * @inheritdoc
