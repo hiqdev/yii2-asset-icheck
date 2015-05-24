@@ -7,7 +7,7 @@
         "license":      "BSD-3-Clause",
         "forum":        "https://forum.hiqdev.com/yii2",
         "language":     "PHP",
-        "keywords":     "DataTables, extension, yii2",
+        "keywords":     "iCheck, asset, extension, yii2",
         "year":         2015
     },
     "vendor": {

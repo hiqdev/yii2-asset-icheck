@@ -3,7 +3,8 @@
     "type": "yii2-extension",
     "description": "Yii 2 asset for bower iCheck",
     "keywords": [
-        "DataTables",
+        "iCheck",
+        "asset",
         "extension",
         "yii2"
     ],
