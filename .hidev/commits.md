@@ -3,6 +3,11 @@ hiqdev/yii2-asset-icheck commits history
 
 ## Under development
 
+- Fixed moving to src
+    - a260ed0 2015-08-25 fixed moving to src (sol@hiqdev.com)
+
+## 1.0.2.2 2015-08-25
+
 - Changed: moved to src
     - 5a0fe78 2015-08-25 rehideved, moved to src and php-cs-fixed (sol@hiqdev.com)
 
