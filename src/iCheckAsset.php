@@ -1,8 +1,12 @@
 <?php
-/**
- * @link      http://hiqdev.com/yii2-asset-icheck
- * @license   BSD 3-clause
- * @copyright Copyright (c) 2015 HiQDev
+
+/*
+ * Yii 2 asset for bower iCheck
+ *
+ * @link      https://github.com/hiqdev/yii2-asset-icheck
+ * @package   yii2-asset-icheck
+ * @license   BSD-3-Clause
+ * @copyright Copyright (c) 2015, HiQDev (https://hiqdev.com/)
  */
 
 namespace hiqdev\assets\icheck;
@@ -13,30 +17,29 @@ namespace hiqdev\assets\icheck;
 class iCheckAsset extends \yii\web\AssetBundle
 {
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $sourcePath = '@bower/icheck';
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $css = [
         'skins/all.css',
     ];
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $js = [
         'icheck.min.js',
     ];
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $depends = [
         'yii\bootstrap\BootstrapAsset',
         'yii\bootstrap\BootstrapPluginAsset',
     ];
-
 }
