@@ -49,7 +49,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\assets\\icheck\\": ""
+            "hiqdev\\assets\\icheck\\": "src"
         }
     },
     "extra": {
