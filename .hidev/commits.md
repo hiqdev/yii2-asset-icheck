@@ -1,9 +1,6 @@
 hiqdev/yii2-asset-icheck commits history
 ----------------------------------------
 
-## Under development
-
-
 ## 1.0.2.3 2015-08-25
 
 - Fixed moving to src

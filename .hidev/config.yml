@@ -1,12 +1,11 @@
 package:
-    name:           yii2-asset-icheck
-    namespace:      hiqdev\assets\icheck
-    label:          ICheckAsset
-    title:          Yii 2 asset for bower iCheck
     type:           yii2-extension
+    name:           yii2-asset-icheck
+    title:          Yii 2 asset for bower iCheck
+    headline:       Yii2 ICheck asset
     keywords:       iCheck, asset, extension, yii2
-    year:           2015
+    namespace:      hiqdev\assets\icheck
 
 require:
-    hiqdev/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"
+    hiqdev/hidev-php:    "*"
+    hiqdev/hidev-vendor: "*"
