@@ -1,6 +1,13 @@
 hiqdev/yii2-asset-icheck commits history
 ----------------------------------------
 
+## 1.0.2.4 2016-02-20
+
+- Fixed: updated with latest HiDev features
+    - 936e8dd 2016-02-20 inited tests (sol@hiqdev.com)
+    - 063e010 2016-02-20 phpcsfixed (sol@hiqdev.com)
+    - b8ec3ab 2016-02-20 rehideved (sol@hiqdev.com)
+
 ## 1.0.2.3 2015-08-25
 
 - Fixed moving to src

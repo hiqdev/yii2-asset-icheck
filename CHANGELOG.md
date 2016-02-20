@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-icheck changelog
 ----------------------------------
 
+## 1.0.2.4 2016-02-20
+
+- Fixed: updated with latest HiDev features
+
 ## 1.0.2.3 2015-08-25
 
 - Fixed moving to src
