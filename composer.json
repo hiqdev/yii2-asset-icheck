@@ -45,7 +45,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "bower-asset/icheck": "1.0.2"
+        "hiqdev/composer-asset-plugin": "*@dev"
     },
     "autoload": {
         "psr-4": {
@@ -53,9 +53,8 @@
         }
     },
     "extra": {
-        "asset-installer-paths": {
-            "npm-asset-library": "vendor/npm",
-            "bower-asset-library": "vendor/bower"
+        "bower-dependencies": {
+            "icheck": "1.0.2"
         }
     }
 }
