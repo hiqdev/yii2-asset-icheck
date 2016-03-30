@@ -1,13 +1,13 @@
-Yii2 ICheck asset
-=================
+Yii2 ICheck
+===========
 
-**Yii 2 asset for bower iCheck**
+**Yii2 asset for bower iCheck**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-icheck/v/stable)](https://packagist.org/packages/hiqdev/yii2-asset-icheck)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-icheck/downloads)](https://packagist.org/packages/hiqdev/yii2-asset-icheck)
 [![Build Status](https://img.shields.io/travis/hiqdev/yii2-asset-icheck.svg)](https://travis-ci.org/hiqdev/yii2-asset-icheck)
-[![Code Coverage](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-icheck/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-icheck/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-icheck/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-icheck/?branch=master)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/yii2-asset-icheck.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-icheck/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/yii2-asset-icheck.svg)](https://scrutinizer-ci.com/g/hiqdev/yii2-asset-icheck/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-icheck/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-icheck/dev-master)
 
 ## Installation

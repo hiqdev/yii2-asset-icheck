@@ -1,8 +1,8 @@
 package:
     type:           yii2-extension
     name:           yii2-asset-icheck
-    title:          Yii 2 asset for bower iCheck
-    headline:       Yii2 ICheck asset
+    title:          Yii2 asset for bower iCheck
+    headline:       Yii2 ICheck
     keywords:       iCheck, asset, extension, yii2
     namespace:      hiqdev\assets\icheck
 
