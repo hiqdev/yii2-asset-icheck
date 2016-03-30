@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-icheck",
     "type": "yii2-extension",
-    "description": "Yii 2 asset for bower iCheck",
+    "description": "Yii2 asset for bower iCheck",
     "keywords": [
         "iCheck",
         "asset",
@@ -45,6 +45,9 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
+        "bower-asset/icheck": "1.0.2"
+    },
+    "require-dev": {
         "hiqdev/composer-asset-plugin": "*@dev"
     },
     "autoload": {
