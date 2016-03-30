@@ -1,7 +1,7 @@
 hiqdev/yii2-asset-icheck changelog
 ----------------------------------
 
-## Under development
+## 1.0.2.5 2016-03-30
 
 - Added cross fpx/hiqdev composer-asset-plugin compatibility
 

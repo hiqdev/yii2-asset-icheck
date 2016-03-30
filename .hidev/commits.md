@@ -1,7 +1,7 @@
 hiqdev/yii2-asset-icheck commits history
 ----------------------------------------
 
-## Under development
+## 1.0.2.5 2016-03-30
 
 - Added cross fpx/hiqdev composer-asset-plugin compatibility
     - bd41a63 2016-03-30 improved cross fpx/hiqdev composer-asset-plugin compatibility (sol@hiqdev.com)
